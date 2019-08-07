@@ -1,7 +1,7 @@
 public struct MyPackage {
     var text = "Hello, World!"
     
-    public func sayHello() {
+    public static func sayHello() {
         print(text)
     }
 }
